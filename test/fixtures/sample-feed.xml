@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>Sample Newsroom Feed (test fixture)</title>
+	<link>https://example.test/news/</link>
+	<item>
+		<title>Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone</title>
+		<link>https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/</link>
+		<dc:creator><![CDATA[Facebook]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 18:00:31 +0000</pubDate>
+		<category><![CDATA[APAC Newsroom]]></category>
+		<category><![CDATA[AI]]></category>
+		<description><![CDATA[<div><img src="https://example.test/img.png" alt="" /></div>
+<p>Muse is available in Australia from today, with local connector experiences rolling out progressively.</p>
+<p>The post <a href="https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/">Muse Is Now Available in Australia</a> appeared first on <a href="https://about.fb.com">Meta Newsroom</a>.</p>
+]]></description>
+	</item>
+	<item>
+		<title>Sample Item &amp; Entities: &#8220;Quotes&#8221; &lt;Here&gt;</title>
+		<link>https://example.test/news/sample-entities/</link>
+		<pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
+		<description><![CDATA[<p>Synthetic test item with <strong>markup</strong> and &amp; entities.</p>]]></description>
+	</item>
+	<item>
+		<title>Old Sample Item</title>
+		<link>https://example.test/news/old/</link>
+		<pubDate>Thu, 01 Jan 2026 08:00:00 +0000</pubDate>
+		<description><![CDATA[<p>Older synthetic item for the --since filter.</p>]]></description>
+	</item>
+	<item>
+		<title></title>
+		<link>https://example.test/news/no-title/</link>
+	</item>
+</channel>
+</rss>

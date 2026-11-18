@@ -1,0 +1,18 @@
+{
+  "name": "meta-pulse",
+  "version": "0.1.0",
+  "description": "Turns Meta Newsroom articles into sourced post drafts. Unofficial fan project, not affiliated with Meta.",
+  "type": "module",
+  "bin": {
+    "meta-pulse": "bin/meta-pulse.js"
+  },
+  "scripts": {
+    "start": "node bin/meta-pulse.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "keywords": ["meta", "newsroom", "rss", "cli", "content"]
+}
